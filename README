@@ -1,0 +1,10 @@
+INSTALLATION:
+
+uncompress the package :
+$ tar xvzf confmgr-20100204.tar.gz
+
+set PYTHONPATH to .../confmgr
+set PATH to .../confmgr/bin
+
+try to run the script :
+$ confmgr.py -h
